@@ -293,7 +293,8 @@
         },
         "Maharashtra": {
             "Mumbai": "1",
-            "Pune": "1"
+            "Pune": "1",
+            "Bangalore":"1"
         },
         "_area_": "Asia"
     },
