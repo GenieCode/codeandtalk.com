@@ -1724,6 +1724,11 @@
         "name": "woman",
         "url": ""
     },
+    "wwc": {
+        "description": "",
+        "name": "WomenWhoCode",
+        "url": "https://www.womenwhocode.com/"
+    },
     "wordpress": {
         "description": "",
         "name": "wordpress",
