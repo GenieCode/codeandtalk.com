@@ -409,7 +409,7 @@
     }
     ,
     {
-        "feed": "https://wwc.com/feed/podcast/",
+        "feed": "https://wwc.com/feed/podcast/wwc",
         "itunes": "https://itunes.apple.com/il/podcast/women-who-code",
         "name": "womenwhocode",
         "title": "Women who code podcast and video interviews",
