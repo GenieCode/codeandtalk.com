@@ -406,6 +406,14 @@
         "name": "flawcode",
         "title": "Flaw Code - The other side story!!",
         "url": "https://flawcode.com"
+    }
+    ,
+    {
+        "feed": "https://wwc.com/feed/podcast/",
+        "itunes": "https://itunes.apple.com/il/podcast/women-who-code",
+        "name": "womenwhocode",
+        "title": "Women who code podcast and video interviews",
+        "url": "https://www.womenwhocode.com"
     },
     {
         "feed": "https://rungeekradio.com/feed/podcast/",
