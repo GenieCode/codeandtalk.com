@@ -8,6 +8,7 @@ setup(
         'flask',
         'jinja2',
         'pyquery',
+        'python',
         'requests', # needed by bin/check_site.py
     ],
     #setup_requires=[
